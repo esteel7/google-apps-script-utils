@@ -283,7 +283,7 @@ Cuando sea necesario combinar información dinámica con datos manuales, se reco
 
 Una alternativa es utilizar:
 
-[`INDEX + MATCH`](index-match.md)
+[`INDICE + COINCIDIR`](indice-coincidir.md)
 
 ## Seguridad y privacidad
 
