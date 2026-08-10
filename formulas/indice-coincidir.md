@@ -158,4 +158,4 @@ Por esta razón, es recomendable normalizar previamente los identificadores.
 
 ## Licencia
 
-Esta documentación forma parte de **Google Apps Script Utils** y se distribuye bajo la [MIT License](../LICENSE).
+Esta documentación forma parte de **Google Workspace Utils** y se distribuye bajo la [MIT License](../LICENSE).
