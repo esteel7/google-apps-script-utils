@@ -1,4 +1,4 @@
-# Google Apps Script Utils
+# Google Workspace Utils
 
 Colección de funciones y scripts reutilizables para **Google Apps Script** y **Google Workspace**.
 
